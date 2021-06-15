@@ -34,7 +34,7 @@
     "loophole": "^1.1.0",
     "prettier": "2.3.1",
     "prettier-stylelint": "^0.4.2",
-    "read-pkg-up": "^7.0.1",
+    "read-pkg-up": "^8.0.0",
     "yarn-global-modules": "^1.0.1"
   },
   "devDependencies": {
