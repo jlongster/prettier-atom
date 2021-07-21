@@ -1924,13 +1924,10 @@ atom-linter@^10.0.0:
     sb-promisify "^2.0.1"
     tmp "~0.0.28"
 
-atom-package-deps@^6.0.0:
-  version "6.0.0"
-  resolved "https://registry.yarnpkg.com/atom-package-deps/-/atom-package-deps-6.0.0.tgz#9233ba39ecacfcc80d2611975d21236a384fa777"
-  integrity sha512-9UQx2sTvBiaIHcZ3le/B0djM+jsZXBQRPXatrmtNfjkbAOV5bGrcXzcV4U0EBfGdzB7QmWeOnwMIJwa3HvW7Kg==
-  dependencies:
-    sb-fs "^4.0.0"
-    semver "^7.3.2"
+atom-package-deps@^8.0.0:
+  version "8.0.0"
+  resolved "https://registry.yarnpkg.com/atom-package-deps/-/atom-package-deps-8.0.0.tgz#6eb49ae8cb42ff14b6e437366f6b1fa7d9feb997"
+  integrity sha512-TSY6WX4+QbMK9r6iCY99hNW+9vW7SF0zGHfnMLgiinMj5VR5MNQIhU+2pVXqIbGWnl32uqBAKB+iBztUV0ssyg==
 
 atom-text-buffer-point@^1.0.0:
   version "1.0.0"
@@ -7789,13 +7786,6 @@ sb-exec@^4.0.0:
     lodash.uniq "^4.5.0"
     sb-npm-path "^2.0.0"
 
-sb-fs@^4.0.0:
-  version "4.0.0"
-  resolved "https://registry.yarnpkg.com/sb-fs/-/sb-fs-4.0.0.tgz#b84ca0045f09d4643304113d4e0543b508a56f73"
-  integrity sha512-UjjIHC4uahPWvKYqgknvFCCJ11S0oDahz+nsmyTCAmARKto31aoE+Lu7GGGK0nogengJEKGzFdh46ho5+IL88Q==
-  dependencies:
-    strip-bom-buf "^1.0.0"
-
 sb-memoize@^1.0.2:
   version "1.0.2"
   resolved "https://registry.yarnpkg.com/sb-memoize/-/sb-memoize-1.0.2.tgz#128375c62ddb9cc4ffa905d0c5a597c19baead8e"
@@ -8278,12 +8268,6 @@ strip-ansi@^6.0.0:
   integrity sha512-AuvKTrTfQNYNIctbR1K/YGTR1756GycPsg7b9bdV9Duqur4gv6aKqHXah67Z8ImS7WEz5QVcOtlfW2rZEugt6w==
   dependencies:
     ansi-regex "^5.0.0"
-
-strip-bom-buf@^1.0.0:
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/strip-bom-buf/-/strip-bom-buf-1.0.0.tgz#1cb45aaf57530f4caf86c7f75179d2c9a51dd572"
-  dependencies:
-    is-utf8 "^0.2.1"
 
 strip-bom@4.0.0, strip-bom@^4.0.0:
   version "4.0.0"
