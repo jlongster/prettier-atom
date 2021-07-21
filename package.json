@@ -43,7 +43,7 @@
     "@babel/plugin-proposal-object-rest-spread": "^7.14.5",
     "@babel/plugin-transform-flow-strip-types": "^7.14.5",
     "@babel/plugin-transform-runtime": "^7.14.5",
-    "@babel/preset-env": "^7.14.5",
+    "@babel/preset-env": "^7.14.8",
     "all-contributors-cli": "^6.20.0",
     "babel-eslint": "^10.1.0",
     "codecov": "^3.8.2",
